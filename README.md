@@ -1,1 +1,1 @@
-# YiiTutorial2
+# YiiTutorial
